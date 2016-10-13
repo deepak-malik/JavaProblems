@@ -138,7 +138,7 @@ Some java problems solved from program creek.
 - [ ] Path Sum II (DFS) 
 - [ ] Construct Binary Tree from Inorder and Postorder Traversal
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
-- [ ] Convert Sorted Array to Binary Search Tree [Google]
+- [X] [Convert Sorted Array to Binary Search Tree (Google)](../master/src/com/deepak/java/problems/Trees/SortedArrayToBST.java)
 - [ ] Convert Sorted List to Binary Search Tree [Google]
 - [ ] Minimum Depth of Binary Tree
 - [ ] Binary Tree Maximum Path Sum
