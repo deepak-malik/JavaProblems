@@ -140,7 +140,7 @@ Some java problems solved from program creek.
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [X] [Convert Sorted Array to Binary Search Tree (Google)](../master/src/com/deepak/java/problems/Trees/SortedArrayToBST.java)
 - [ ] Convert Sorted List to Binary Search Tree [Google]
-- [X] Find Predecessor and Successor in Binary Search Tree(../master/src/com/deepak/java/problems/Trees/PredecessorAndSuccessor.java)
+- [X] [Find Predecessor and Successor in Binary Search Tree](../master/src/com/deepak/java/problems/Trees/PredecessorAndSuccessor.java)
 - [ ] Minimum Depth of Binary Tree
 - [ ] Binary Tree Maximum Path Sum
 - [ ] Balanced Binary Tree
