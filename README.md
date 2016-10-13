@@ -132,7 +132,7 @@ Some java problems solved from program creek.
 - [ ] Invert Binary Tree
 - [ ] Kth Smallest Element in a BST
 - [ ] Binary Tree Longest Consecutive Sequence
-- [ ] Validate Binary Search Tree
+- [X] [Validate Binary Search Tree](../master/src/com/deepak/java/problems/Trees/ValidateBST.java)
 - [ ] Flatten Binary Tree to Linked List
 - [ ] Path Sum (DFS or BFS)
 - [ ] Path Sum II (DFS) 
