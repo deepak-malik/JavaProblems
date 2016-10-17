@@ -32,4 +32,20 @@ public class FindMinimum {
 		return node.value;
 	}
 
+	/**
+	 * Method to find minimum value of BST using recursion
+	 * 
+	 * @param node - Node of BST
+	 * @return {@link int} - Minimum Value
+	 */
+	public static int findMinimumUsingRecursion(TreeNode node) {
+		if (node == null) {
+			return 0;
+		}
+		if (node.left == null) {
+			return node.value;
+		}
+		return findMinimumUsingRecursion(node.left);
+	}
+
 }

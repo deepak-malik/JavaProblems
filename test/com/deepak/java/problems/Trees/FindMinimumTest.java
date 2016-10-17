@@ -25,6 +25,7 @@ public class FindMinimumTest {
 		aTree.addTreeNode(3);
 		aTree.addTreeNode(4);
 		Assert.assertEquals(FindMinimum.findMinimum(aTree.getRoot()), 1);
+		Assert.assertEquals(FindMinimum.findMinimumUsingRecursion(aTree.getRoot()), 1);
 	}
 
 	/* Test Case 2 :
@@ -42,6 +43,7 @@ public class FindMinimumTest {
 		aTree.addTreeNode(7);
 		aTree.addTreeNode(17);
 		Assert.assertEquals(FindMinimum.findMinimum(aTree.getRoot()), 2);
+		Assert.assertEquals(FindMinimum.findMinimumUsingRecursion(aTree.getRoot()), 2);
 	}
 
 	/* Test Case 3 :
@@ -52,6 +54,7 @@ public class FindMinimumTest {
 		BinarySearchTree aTree = new BinarySearchTree();
 		aTree.addTreeNode(10);
 		Assert.assertEquals(FindMinimum.findMinimum(aTree.getRoot()), 10);
+		Assert.assertEquals(FindMinimum.findMinimumUsingRecursion(aTree.getRoot()), 10);
 	}
 
 	/* Test Case 4 : 
@@ -62,6 +65,7 @@ public class FindMinimumTest {
 		BinarySearchTree aTree = new BinarySearchTree();
 		aTree.addTreeNode(0);
 		Assert.assertEquals(FindMinimum.findMinimum(aTree.getRoot()), 0);
+		Assert.assertEquals(FindMinimum.findMinimumUsingRecursion(aTree.getRoot()), 0);
 	}
 
 	/* Test Case 5 : 
@@ -70,6 +74,7 @@ public class FindMinimumTest {
 	public void findMinimumTest5() {
 		BinarySearchTree aTree = new BinarySearchTree();
 		Assert.assertEquals(FindMinimum.findMinimum(aTree.getRoot()), 0);
+		Assert.assertEquals(FindMinimum.findMinimumUsingRecursion(aTree.getRoot()), 0);
 	}
 
 }
