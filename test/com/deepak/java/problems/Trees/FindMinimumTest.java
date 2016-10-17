@@ -18,7 +18,7 @@ public class FindMinimumTest {
 	 * Insert sequential values in the tree,
 	 * and find minimum*/
 	@Test
-	public void findMinimumTes1() {
+	public void findMinimumTest1() {
 		BinarySearchTree aTree = new BinarySearchTree();
 		aTree.addTreeNode(1);
 		aTree.addTreeNode(2);
