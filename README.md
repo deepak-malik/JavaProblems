@@ -207,17 +207,24 @@ Some random java problems solved from various sources
 - [ ] Sort Colors (Counting Sort)
 
 **10. Bit Manipulation**
-- [ ] Single Number
+- [X] [Single Number](../master/src/com/deepak/java/problems/Bit_Manipulation/Problem_01.java)
 - [ ] Single Number II
 - [ ] Maximum Binary Gap
 - [ ] Number of 1 Bits 
 - [ ] Reverse Bits 
 - [ ] Repeated DNA Sequences
 - [ ] Bitwise AND of Numbers Range 
-- [ ] Sum of Two Integers
+- [ ] Sum of Two Integers Without Plus Sign
 - [ ] Counting Bits
 - [ ] Maximum Product of Word Lengths
 - [ ] Gray Code
+- [ ] Binary Fraction
+- [ ] Length of consecutive 1's
+- [ ] Negate Binary
+- [ ] Next Power of 2
+- [ ] Number to Bit
+- [ ] Parity
+- [ ] Swap Bits Odd Even
 
 **11. Dynamic programming**
 - [ ] Edit Distance
