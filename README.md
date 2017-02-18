@@ -4,10 +4,14 @@ Some random java problems solved from various sources
 **1. Math**
 - [X] [Factorial of a Number](../master/src/com/deepak/java/problems/Math/Problem_01.java)
 - [X] [Prime Number](../master/src/com/deepak/java/problems/Math/Problem_02.java)
-- [X] [Greatest common divisor - Euclid's Theorem](../master/src/com/deepak/java/problems/Math/Problem_03.java)
+- [X] [Greatest Common Divisor - Euclid's Theorem](../master/src/com/deepak/java/problems/Math/Problem_03.java)
+- [X] [First Missing Positive Integer](../master/src/com/deepak/java/problems/Math/Problem_04.java)
+- [X] [Majority Element](../master/src/com/deepak/java/problems/Math/Problem_05.java)
+- [ ] Square of a Number
+- [ ] Square Root of a Number
 - [ ] Reverse Integer
 - [ ] Palindrome Number
-- [ ] Pow(x,n), Power of Two, Power of Three, Power of Four 
+- [ ] Pow(x,n), [Power of Two](../master/src/com/deepak/java/problems/Math/Problem_11.java), [Power of Three](../master/src/com/deepak/java/problems/Math/Problem_12.java), Power of Four 
 - [ ] Subsets
 - [ ] Subsets 2
 - [ ] Fraction to Recurring Decimal [Google]
