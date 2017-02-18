@@ -274,3 +274,4 @@ Some random java problems solved from various sources
 **17. Heap**
 
 **18. Recursion**
+- [X] Count of given character in a string(../master/src/com/deepak/java/problems/Recursion/Problem_01.java)
