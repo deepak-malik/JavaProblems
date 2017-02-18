@@ -274,7 +274,7 @@ Some random java problems solved from various sources
 **17. Heap**
 
 **18. Recursion**
-- [X] Count of given character in a string(../master/src/com/deepak/java/problems/Recursion/Problem_01.java)
+- [X] [Count of given character in a string](../master/src/com/deepak/java/problems/Recursion/Problem_01.java)
 - [X] [Print Fibonacci series until given number](../master/src/com/deepak/java/problems/Recursion/Problem_02.java)
 - [X] [Group Sum](../master/src/com/deepak/java/problems/Recursion/Problem_03.java)
 - [X] [Numbers List and Arithmetic Operations](../master/src/com/deepak/java/problems/Recursion/Problem_04.java)
