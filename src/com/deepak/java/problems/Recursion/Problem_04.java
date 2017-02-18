@@ -10,6 +10,12 @@ import java.util.Set;
  * reach the target by using any arithmetic operation (+, -, *, /)
  * You can only traverse forward.
  * 
+ * This is a subset problem i.e for a set of integers find a subset
+ * whose sum is zero (Here we have other operations as well)
+ * 
+ * Note : It is a NP Complete Problem 
+ * i.e complexity of the best known algorithm is exponential
+ * 
  * @author Deepak
  */
 public class Problem_04 {
