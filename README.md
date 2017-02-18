@@ -278,4 +278,5 @@ Some random java problems solved from various sources
 - [X] [Print Fibonacci series until given number](../master/src/com/deepak/java/problems/Recursion/Problem_02.java)
 - [X] [Group Sum](../master/src/com/deepak/java/problems/Recursion/Problem_03.java)
 - [X] [Numbers List and Arithmetic Operations](../master/src/com/deepak/java/problems/Recursion/Problem_04.java)
-- [X] [Generate Parentheses](../master/src/com/deepak/java/problems/Recursion/Problem_05.java) 
+- [X] [Generate Parentheses](../master/src/com/deepak/java/problems/Recursion/Problem_05.java)
+- [X] [Count Hi](../master/src/com/deepak/java/problems/Recursion/Problem_06.java)
