@@ -7,7 +7,7 @@ Some random java problems solved from various sources
 - [X] [Greatest Common Divisor - Euclid's Theorem](../master/src/com/deepak/java/problems/Math/Problem_03.java)
 - [X] [First Missing Positive Integer](../master/src/com/deepak/java/problems/Math/Problem_04.java)
 - [X] [Majority Element](../master/src/com/deepak/java/problems/Math/Problem_05.java)
-- [ ] Square of a Number
+- [X] [Square of a Number](../master/src/com/deepak/java/problems/Math/Problem_06.java)
 - [ ] Square Root of a Number
 - [ ] Reverse Integer
 - [ ] Palindrome Number
