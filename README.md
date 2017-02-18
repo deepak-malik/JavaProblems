@@ -281,3 +281,5 @@ Some random java problems solved from various sources
 - [X] [Generate Parentheses](../master/src/com/deepak/java/problems/Recursion/Problem_05.java)
 - [X] [Count Hi](../master/src/com/deepak/java/problems/Recursion/Problem_06.java)
 - [X] [FB Recursion](../master/src/com/deepak/java/problems/Recursion/Problem_07.java)
+- [X] [String Permutation](../master/src/com/deepak/java/problems/Recursion/Problem_08.java)
+- [X] [Occurrences of SubString](../master/src/com/deepak/java/problems/Recursion/Problem_09.java)
