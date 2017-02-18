@@ -1,5 +1,29 @@
 # JavaProblems
-Some java problems solved from program creek.
+Some random java problems solved from various sources
+
+**1. Math**
+- [X] [Factorial of a Number](../master/src/com/deepak/java/problems/Math/Problem_01.java)
+- [X] [Prime Number](../master/src/com/deepak/java/problems/Math/Problem_02.java)
+- [X] [Greatest common divisor - Euclid's Theorem](../master/src/com/deepak/java/problems/Math/Problem_03.java)
+- [ ] Reverse Integer
+- [ ] Palindrome Number
+- [ ] Pow(x,n), Power of Two, Power of Three, Power of Four 
+- [ ] Subsets
+- [ ] Subsets 2
+- [ ] Fraction to Recurring Decimal [Google]
+- [ ] Excel Sheet Column Number
+- [ ] Excel Sheet Column Title 
+- [ ] Factorial Trailing Zeroes
+- [ ] Happy Number
+- [ ] Count Primes
+- [ ] Plus One
+- [ ] Divide Two Integers
+- [ ] Multiply Strings
+- [ ] Max Points on a Line
+- [ ] Product of Array Except Self
+- [ ] Integer Break
+- [ ] Add Digits
+- [ ] Ugly Number, 9Ugly Number II, Super Ugly Number, Find K Pairs with Smallest Sums
 	
 **1. Arrays and Strings**
 - [ ] Rotate Array 
@@ -22,7 +46,6 @@ Some java problems solved from program creek.
 - [ ] Merge Sorted Array
 - [ ] Valid Parentheses
 - [ ] Longest Valid Parentheses
-- [ ] Implement strStr()
 - [ ] Minimum Size Subarray Sum
 - [ ] Search Insert Position
 - [ ] Longest Consecutive Sequence
@@ -108,22 +131,10 @@ Some java problems solved from program creek.
 - [ ] Best Meeting Point
 
 **3. Linked List, Stacks and Queues**
-- [ ] Add Two Numbers
-- [ ] Reorder List
-- [ ] Linked List Cycle
 - [ ] Copy List with Random Pointer
-- [ ] Merge Two Sorted Lists
 - [ ] Odd Even Linked List
-- [ ] Remove Duplicates from Sorted List
-- [ ] Remove Duplicates from Sorted List II
-- [ ] Partition List
-- [ ] LRU Cache
-- [ ] Intersection of Two Linked Lists
 - [ ] Remove Linked List Elements
-- [ ] Swap Nodes in Pairs
 - [ ] Reverse Linked List, Reverse Linked List II, Print Linked List in Reversed Order
-- [ ] Remove Nth Node From End of List (Fast-Slow Pointers)
-- [ ] Palindrome Linked List
 - [ ] Delete Node in a Linked List
 - [ ] Reverse Nodes in k-Group
 
@@ -244,27 +255,6 @@ Some java problems solved from program creek.
 - [ ] Restore IP Addresses
 - [ ] Factor Combinations (DFS)
 
-**13. Math**
-- [ ] Reverse Integer
-- [ ] Palindrome Number
-- [ ] Pow(x,n), Power of Two, Power of Three, Power of Four 
-- [ ] Subsets
-- [ ] Subsets 2
-- [ ] Fraction to Recurring Decimal [Google]
-- [ ] Excel Sheet Column Number
-- [ ] Excel Sheet Column Title 
-- [ ] Factorial Trailing Zeroes
-- [ ] Happy Number
-- [ ] Count Primes
-- [ ] Plus One
-- [ ] Divide Two Integers
-- [ ] Multiply Strings
-- [ ] Max Points on a Line
-- [ ] Product of Array Except Self
-- [ ] Integer Break
-- [ ] Add Digits
-- [ ] Ugly Number, 9Ugly Number II, Super Ugly Number, Find K Pairs with Smallest Sums
-
 **14. Additional problems**
 - [ ] Self Crossing
 - [ ] Patching Array
@@ -272,3 +262,11 @@ Some java problems solved from program creek.
 - [ ] Bulb Switcher
 - [ ] Pain Fence
 - [ ] Nested List Weight Sum
+
+**15. Threads**
+
+**16. Hash Table**
+
+**17. Heap**
+
+**18. Recursion**
