@@ -10,7 +10,7 @@ Some random java problems solved from various sources
 - [X] [Square of a Number](../master/src/com/deepak/java/problems/Math/Problem_06.java)
 - [X] [Square Root of a Number](../master/src/com/deepak/java/problems/Math/Problem_07.java)
 - [X] [Reverse Integer](../master/src/com/deepak/java/problems/Math/Problem_08.java)
-- [ ] Palindrome Number
+- [X] [Palindrome Number](../master/src/com/deepak/java/problems/Math/Problem_09.java)
 - [ ] Pow(x,n), [Power of Two](../master/src/com/deepak/java/problems/Math/Problem_11.java), [Power of Three](../master/src/com/deepak/java/problems/Math/Problem_12.java), Power of Four 
 - [ ] Subsets
 - [ ] Subsets 2
@@ -29,7 +29,7 @@ Some random java problems solved from various sources
 - [ ] Add Digits
 - [ ] Ugly Number, 9Ugly Number II, Super Ugly Number, Find K Pairs with Smallest Sums
 	
-**1. Arrays and Strings**
+**2. Arrays and Strings**
 - [ ] Rotate Array 
 - [ ] [Remove spaces in a given string](../master/src/com/deepak/java/problems/Strings/RemoveSpaces.java)
 - [ ] [Reverse words and characters in a given string](../master/src/com/deepak/java/problems/Strings/ReverseWords.java)
