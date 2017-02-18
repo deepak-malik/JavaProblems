@@ -283,3 +283,4 @@ Some random java problems solved from various sources
 - [X] [FB Recursion](../master/src/com/deepak/java/problems/Recursion/Problem_07.java)
 - [X] [String Permutation](../master/src/com/deepak/java/problems/Recursion/Problem_08.java)
 - [X] [Occurrences of SubString](../master/src/com/deepak/java/problems/Recursion/Problem_09.java)
+- [X] [Find Sum](../master/src/com/deepak/java/problems/Recursion/Problem_10.java)
