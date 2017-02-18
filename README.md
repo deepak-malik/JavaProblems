@@ -8,7 +8,7 @@ Some random java problems solved from various sources
 - [X] [First Missing Positive Integer](../master/src/com/deepak/java/problems/Math/Problem_04.java)
 - [X] [Majority Element](../master/src/com/deepak/java/problems/Math/Problem_05.java)
 - [X] [Square of a Number](../master/src/com/deepak/java/problems/Math/Problem_06.java)
-- [ ] Square Root of a Number
+- [X] [Square Root of a Number](../master/src/com/deepak/java/problems/Math/Problem_07.java)
 - [ ] Reverse Integer
 - [ ] Palindrome Number
 - [ ] Pow(x,n), [Power of Two](../master/src/com/deepak/java/problems/Math/Problem_11.java), [Power of Three](../master/src/com/deepak/java/problems/Math/Problem_12.java), Power of Four 
