@@ -3,8 +3,20 @@ package com.deepak.java.problems.Strings;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Given 2 strings, check if they are anagram
+ * 
+ * @author Deepak
+ */
 public class Problem_01 {
 
+	/**
+	 * Method to check if 2 strings are anagram
+	 * 
+	 * @param word1
+	 * @param word2
+	 * @return {@link boolean}
+	 */
 	public static boolean isAnagram_BruteForce(String word1, String word2) {
 		if (word1 == null || word2 == null || word1.length() != word2.length()) {
 			return false;
@@ -34,18 +46,27 @@ public class Problem_01 {
 		return true;
 	}
 
+	/**
+	 * Method to check if 2 strings are anagram
+	 * 
+	 * @param word1
+	 * @param word2
+	 * @return {@link boolean}
+	 */
 	public static boolean isAnagram_Optimized(String word1, String word2) {
 		if (word1 == null || word2 == null || word1.length() != word2.length()) {
 			return false;
 		}
 		/* 2 strings are anagram if there product is equal */
+		word1 = word1.toLowerCase();
+		word2 = word2.toLowerCase();
 		int result1 = 0;
 		int result2 = 0;
 		for (int i = 0; i < word1.length(); i++) {
 			int index1 = word1.charAt(i);
 			int index2 = word2.charAt(i);
-			result1 *= index1;
-			result2 *= index2;
+			result1 += index1;
+			result2 += index2;
 		}
 		if (result1 == result2) {
 			return true;
