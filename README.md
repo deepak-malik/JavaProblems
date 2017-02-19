@@ -30,6 +30,7 @@ Some random java problems solved from various sources
 - [ ] Ugly Number, 9Ugly Number II, Super Ugly Number, Find K Pairs with Smallest Sums
 	
 **2. Arrays and Strings**
+- [X] [Anagram String](../master/src/com/deepak/java/problems/Strings/Problem_01.java)
 - [ ] Rotate Array 
 - [ ] [Remove spaces in a given string](../master/src/com/deepak/java/problems/Strings/RemoveSpaces.java)
 - [ ] [Reverse words and characters in a given string](../master/src/com/deepak/java/problems/Strings/ReverseWords.java)
@@ -218,7 +219,6 @@ Some random java problems solved from various sources
 - [ ] Counting Bits
 - [ ] Maximum Product of Word Lengths
 - [ ] Gray Code
-- [ ] Binary Fraction
 - [ ] Length of consecutive 1's
 - [ ] Negate Binary
 - [ ] Next Power of 2
@@ -227,6 +227,8 @@ Some random java problems solved from various sources
 - [ ] Swap Bits Odd Even
 
 **11. Dynamic programming**
+- [ ] Egg Dropping
+- [ ] Fibonacci
 - [ ] Edit Distance
 - [ ] Distinct Subsequences Total
 - [ ] Longest Palindromic Substring
