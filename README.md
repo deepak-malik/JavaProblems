@@ -35,6 +35,7 @@ Some random java problems solved from various sources
 - [X] [Anagram String](../master/src/com/deepak/java/problems/Strings/Problem_01.java)
 - [X] [Reverse Words](../master/src/com/deepak/java/problems/Strings/Problem_02.java)
 - [X] [Remove Duplicates](../master/src/com/deepak/java/problems/Strings/Problem_03.java)
+- [X] [Remove White Spaces](../master/src/com/deepak/java/problems/Strings/Problem_04.java)
 - [ ] String Segmentation
 - [ ] XML to Tree
 - [ ] Find all Palindrome Sub strings
