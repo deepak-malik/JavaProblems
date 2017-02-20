@@ -57,7 +57,7 @@ public class Problem_01 {
 		if (word1 == null || word2 == null || word1.length() != word2.length()) {
 			return false;
 		}
-		/* 2 strings are anagram if there product is equal */
+		/* 2 strings are anagram if there sum of indices is equal */
 		word1 = word1.toLowerCase();
 		word2 = word2.toLowerCase();
 		int result1 = 0;
