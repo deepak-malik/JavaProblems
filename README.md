@@ -33,7 +33,7 @@ Some random java problems solved from various sources
 	
 **2. Strings**
 - [X] [Anagram String](../master/src/com/deepak/java/problems/Strings/Problem_01.java)
-- [ ] Reverse words in a sentence
+- [X] [Reverse Words](../master/src/com/deepak/java/problems/Strings/Problem_02.java)
 - [ ] Remove Duplicates
 - [ ] String Segmentation
 - [ ] XML to Tree
