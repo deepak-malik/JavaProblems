@@ -12,9 +12,10 @@ Some random java problems solved from various sources
 - [X] [Reverse Integer](../master/src/com/deepak/java/problems/Math/Problem_08.java)
 - [X] [Palindrome Number](../master/src/com/deepak/java/problems/Math/Problem_09.java)
 - [ ] Find Kth Permutation
-- [ ] [Power of Two](../master/src/com/deepak/java/problems/Math/Problem_11.java)
-- [ ] [Power of Three](../master/src/com/deepak/java/problems/Math/Problem_12.java)
+- [X] [Power of Two](../master/src/com/deepak/java/problems/Math/Problem_11.java)
+- [X] [Power of Three](../master/src/com/deepak/java/problems/Math/Problem_12.java)
 - [ ] Power of a Number
+- [X] [FizzBuzz](../master/src/com/deepak/java/problems/Math/Problem_14.java)
 - [ ] Integer Division
 - [ ] Pythagorean Triplets
 - [ ] All Sum Combinations
@@ -40,11 +41,8 @@ Some random java problems solved from various sources
 - [ ] XML to Tree
 - [ ] Find all Palindrome Sub strings
 - [ ] Regular Expression
-- [ ] [Remove spaces in a given string](../master/src/com/deepak/java/problems/Strings/RemoveSpaces.java)
 - [ ] [Reverse words and characters in a given string](../master/src/com/deepak/java/problems/Strings/ReverseWords.java)
 - [ ] [Reverse vowels in a word](../master/src/com/deepak/java/problems/Strings/ReverseVowelsInWord.java)
-- [ ] [Duplicate characters in a string](../master/src/com/deepak/java/problems/Strings/DuplicateCharacters.java)
-- [ ] [Print characters only once in reverse order]
 - [ ] Length of Last Word
 
  **3. Arrays**

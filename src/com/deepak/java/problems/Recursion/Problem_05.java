@@ -55,10 +55,9 @@ public class Problem_05 {
 	}
 
 	public static void main(String[] args) {
-		List<String> result = generateParenthesis(3);
-		for (String strValue : result) {
-			System.out.println(strValue);
-		}
+		System.out.println(String.join(",", generateParenthesis(1)));
+		System.out.println(String.join(",", generateParenthesis(2)));
+		System.out.println(String.join(",", generateParenthesis(3)));
 	}
 
 }
