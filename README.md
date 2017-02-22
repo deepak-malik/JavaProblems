@@ -46,7 +46,7 @@ Some random java problems solved from various sources
 - [X] [Reverse Vowels](../master/src/com/deepak/java/problems/Strings/Problem_10.java)
 - [X] [Length of Last Word](../master/src/com/deepak/java/problems/Strings/Problem_11.java)
 
- **3. Arrays**
+**3. Arrays**
 - [ ] Rotate Array 
 - [ ] Search Rotated Array
 - [ ] Binary Search
