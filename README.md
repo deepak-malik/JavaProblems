@@ -42,8 +42,8 @@ Some random java problems solved from various sources
 - [ ] XML to Tree
 - [ ] Find all Palindrome Sub strings
 - [ ] Regular Expression
-- [X] [Reverse words and characters](../master/src/com/deepak/java/problems/Strings/Problem_09.java)
-- [ ] [Reverse vowels in a word](../master/src/com/deepak/java/problems/Strings/ReverseVowelsInWord.java)
+- [X] [Reverse Words & Characters](../master/src/com/deepak/java/problems/Strings/Problem_09.java)
+- [X] [Reverse Vowels](../master/src/com/deepak/java/problems/Strings/Problem_10.java)
 - [ ] Length of Last Word
 
  **3. Arrays**
