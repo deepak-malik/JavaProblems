@@ -34,6 +34,7 @@ Some random java problems solved from various sources
 - [ ] Product of Array Except Self
 	
 **2. Strings**
+- [X] [Read File](../master/src/com/deepak/java/problems/Strings/ReadFile.java) 
 - [X] [Anagram String](../master/src/com/deepak/java/problems/Strings/Problem_01.java)
 - [X] [Reverse Words](../master/src/com/deepak/java/problems/Strings/Problem_02.java)
 - [X] [Remove Duplicates](../master/src/com/deepak/java/problems/Strings/Problem_03.java)
