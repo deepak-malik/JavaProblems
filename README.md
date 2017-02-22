@@ -44,7 +44,7 @@ Some random java problems solved from various sources
 - [ ] Regular Expression
 - [X] [Reverse Words & Characters](../master/src/com/deepak/java/problems/Strings/Problem_09.java)
 - [X] [Reverse Vowels](../master/src/com/deepak/java/problems/Strings/Problem_10.java)
-- [ ] Length of Last Word
+- [X] [Length of Last Word](../master/src/com/deepak/java/problems/Strings/Problem_11.java)
 
  **3. Arrays**
 - [ ] Rotate Array 
