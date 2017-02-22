@@ -42,7 +42,7 @@ Some random java problems solved from various sources
 - [ ] XML to Tree
 - [ ] Find all Palindrome Sub strings
 - [ ] Regular Expression
-- [ ] [Reverse words and characters in a given string](../master/src/com/deepak/java/problems/Strings/ReverseWords.java)
+- [X] [Reverse words and characters](../master/src/com/deepak/java/problems/Strings/Problem_09.java)
 - [ ] [Reverse vowels in a word](../master/src/com/deepak/java/problems/Strings/ReverseVowelsInWord.java)
 - [ ] Length of Last Word
 
