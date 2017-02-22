@@ -48,6 +48,7 @@ Some random java problems solved from various sources
 - [X] [Length of Last Word](../master/src/com/deepak/java/problems/Strings/Problem_11.java)
 
 **3. Arrays**
+- [X] [Longest Absolute Path In File System](../master/src/com/deepak/java/problems/Arrays/Problem_01.java)
 - [ ] Rotate Array 
 - [ ] Search Rotated Array
 - [ ] Binary Search
