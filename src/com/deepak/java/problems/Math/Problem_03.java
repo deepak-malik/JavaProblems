@@ -1,9 +1,25 @@
+/**
+ * JavaProblems
+ * Problem_03.java
+ */
 package com.deepak.java.problems.Math;
 
+/**
+ * <br> Problem Statement :
+ * 
+ * Find the GCD (Greatest Common Divisor) of two given numbers
+ * 
+ * </br>
+ * 
+ * @author Deepak
+ */
 public class Problem_03 {
 
 	/**
 	 * Method to find greatest common divisor
+	 * 
+	 * Time Complexity : O(n) => Where n is the smaller number
+	 * Space Complexity : O(1)
 	 * 
 	 * @param m
 	 * @param n
