@@ -1,7 +1,15 @@
+/**
+ * JavaProblems
+ * Problem_08.java
+ */
 package com.deepak.java.problems.Math;
 
 /**
+ * <br> Problem Statement :
+ * 
  * Given a number n, positive or negative, find the reverse
+ * 
+ * </br>
  * 
  * @author Deepak
  */
@@ -14,7 +22,7 @@ public class Problem_08 {
 	 * @return {@link int}
 	 */
 	public static int findReverse(int n) {
-		/* We don't want to deal with -ve numbers, so get the absolute value */
+		/* We don't want to deal with negative numbers, so get the absolute value */
 		int x = Math.abs(n);
 		int result = 0;
 		/* Keep going until it becomes zero */
