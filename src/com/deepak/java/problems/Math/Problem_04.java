@@ -87,7 +87,7 @@ public class Problem_04 {
 	}
 
 	public static void main(String[] args) {
-		int[] array = {0};
+		int[] array = {13, 4, 2, 0, -9, 1, 8900000, -16};
 		System.out.println(findFirstMissingInteger_UnSortedArray(array));
 		int[] array2 = {0,1,2,3,4,5,7};
 		System.out.println(findFirstMissingInteger_SortedArray(array2));
