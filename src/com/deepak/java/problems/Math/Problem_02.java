@@ -1,15 +1,28 @@
+/**
+ * JavaProblems
+ * Problem_01.java
+ */
 package com.deepak.java.problems.Math;
 
 /**
+ * <br> Problem Statement :
+ * 
  * Check if a given number is prime or not
  * Prime Number : A number which is divisible by just 1 and itself
- *  
+ * 
+ * </br>
+ * 
  * @author Deepak
  */
 public class Problem_02 {
 
 	/**
 	 * Method to check if a number is prime
+	 * Note : If a number is not divisible by any number
+	 * till n/2, it won't be divisible further.
+	 * 
+	 * Time Complexity : O(n) => n/2 which is again n
+	 * Space Complexity : O(1)
 	 * 
 	 * @param n
 	 * @return {@link boolean}
@@ -19,9 +32,6 @@ public class Problem_02 {
 		if (n < 2) {
 			return false;
 		}
-		/* Then start from 2 and go till n/2 
-		 * Note : If a number is not divisible by any number
-		 * till n/2, it won't be divisible further. */
 		for (int i = 2; i < n/2; i++) {
 			/* If remainder comes out to be zero, it is not a prime */
 			if (n % i == 0) {
@@ -33,7 +43,10 @@ public class Problem_02 {
 
 	/**
 	 * Method to check if a number is prime
-	 * This is a optimized approach
+	 * Note : This is a optimized approach
+	 * 
+	 * Time Complexity : O(log(n)) => We are doubling n each time
+	 * Space Complexity : O(1)
 	 * 
 	 * @param n
 	 * @return {@link boolean}
