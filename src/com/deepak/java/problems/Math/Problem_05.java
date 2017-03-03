@@ -1,14 +1,22 @@
+/**
+ * JavaProblems
+ * Problem_05.java
+ */
 package com.deepak.java.problems.Math;
 
 import java.util.Arrays;
 
 /**
+ * <br> Problem Statement :
+ * 
  * Given a integer array of size n, find the majority element.
  * A majority element is one, which appears more then n/2 times.
  * You can assume array is not empty and majority element always exists. 
  * 
  * Ex. if array size is 10, we have to return a number which
  * appears more then 5 times.
+ * 
+ * </br>
  * 
  * @author Deepak
  */
@@ -20,6 +28,7 @@ public class Problem_05 {
 	 * so, middle element will always be the majority element
 	 * 
 	 * Time Complexity - Here sorting takes O(n log(n))
+	 * Space Complexity - O(1)
 	 * 
 	 * @param array
 	 * @return {@link int}
@@ -35,7 +44,9 @@ public class Problem_05 {
 	/**
 	 * Method to find majority element in the given array 
 	 * This is "Linear time Majority Vote Algorithm"
+	 * 
 	 * Time Complexity - O(n)
+	 * Space Complexity - O(1)
 	 * 
 	 * @param array
 	 * @return {@link int}
