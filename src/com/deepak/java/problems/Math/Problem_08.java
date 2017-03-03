@@ -18,6 +18,9 @@ public class Problem_08 {
 	/**
 	 * Method to find the reverse of a number
 	 * 
+	 * Time Complexity = O(n) => n is number of digits in number
+	 * Space Complexity = O(1)
+	 * 
 	 * @param n
 	 * @return {@link int}
 	 */
