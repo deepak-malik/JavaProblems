@@ -2,36 +2,45 @@
 Some random java problems solved from various sources
 
 **1. Math**
-- [X] [Factorial of a Number](../master/src/com/deepak/java/problems/Math/Problem_01.java)
-- [X] [Prime Number](../master/src/com/deepak/java/problems/Math/Problem_02.java)
-- [X] [Greatest Common Divisor](../master/src/com/deepak/java/problems/Math/Problem_03.java)
-- [X] [First Missing Positive Integer](../master/src/com/deepak/java/problems/Math/Problem_04.java)
-- [X] [Majority Element](../master/src/com/deepak/java/problems/Math/Problem_05.java)
-- [X] [Square of a Number](../master/src/com/deepak/java/problems/Math/Problem_06.java)
-- [X] [Square Root of a Number](../master/src/com/deepak/java/problems/Math/Problem_07.java)
-- [X] [Reverse Integer](../master/src/com/deepak/java/problems/Math/Problem_08.java)
-- [X] [Palindrome Number](../master/src/com/deepak/java/problems/Math/Problem_09.java)
-- [ ] Find Kth Permutation
-- [X] [Power of Two](../master/src/com/deepak/java/problems/Math/Problem_11.java)
-- [X] [Power of Three](../master/src/com/deepak/java/problems/Math/Problem_12.java)
-- [ ] Power of a Number
-- [X] [FizzBuzz](../master/src/com/deepak/java/problems/Math/Problem_14.java)
-- [X] [Valid Parenthesis](../master/src/com/deepak/java/problems/Math/Problem_15.java)
-- [ ] Integer Division
-- [ ] Pythagorean Triplets
-- [ ] All Sum Combinations
-- [ ] Find Missing Number
-- [ ] Permute Strings
-- [ ] All Subsets
-- [ ] Is Number Valid
-- [ ] Excel Sheet Column Number
-- [ ] Excel Sheet Column Title 
-- [ ] Happy Number
-- [ ] Plus One
-- [ ] Divide Two Integers
-- [ ] Multiply Strings
-- [ ] Add Digits
-- [ ] Product of Array Except Self
+- [X] [01 - Factorial of a Number](../master/src/com/deepak/java/problems/Math/Problem_01.java)
+- [X] [02 - Prime Number](../master/src/com/deepak/java/problems/Math/Problem_02.java)
+- [X] [03 - Greatest Common Divisor](../master/src/com/deepak/java/problems/Math/Problem_03.java)
+- [X] [04 - First Missing Positive Integer](../master/src/com/deepak/java/problems/Math/Problem_04.java)
+- [X] [05 - Majority Element](../master/src/com/deepak/java/problems/Math/Problem_05.java)
+- [X] [06 - Square of a Number](../master/src/com/deepak/java/problems/Math/Problem_06.java)
+- [X] [07 - Square Root of a Number](../master/src/com/deepak/java/problems/Math/Problem_07.java)
+- [X] [08 - Reverse Integer](../master/src/com/deepak/java/problems/Math/Problem_08.java)
+- [X] [09 - Palindrome Number](../master/src/com/deepak/java/problems/Math/Problem_09.java)
+- [ ] 10 - Find Kth Permutation
+- [X] [11 - Power of Two](../master/src/com/deepak/java/problems/Math/Problem_11.java)
+- [X] [12 - Power of Three](../master/src/com/deepak/java/problems/Math/Problem_12.java)
+- [ ] 13 - Power of Four
+- [X] [14 - FizzBuzz](../master/src/com/deepak/java/problems/Math/Problem_14.java)
+- [X] [15 - Valid Parenthesis](../master/src/com/deepak/java/problems/Math/Problem_15.java)
+- [ ] 16 - Integer Division
+- [ ] 17 - Pythagorean Triplets
+- [ ] 18 - All Sum Combinations
+- [ ] 19 - Find Missing Number
+- [ ] 20 - Permute Strings
+- [ ] 21 - All Subsets
+- [ ] 22 - Is Number Valid
+- [ ] 23 - Excel Sheet Column Number
+- [ ] 24 - Excel Sheet Column Title 
+- [ ] 25 - Happy Number
+- [ ] 26 - Plus One
+- [ ] 27 - Divide Two Integers
+- [ ] 28 - Multiply Strings
+- [ ] 29 - Add Digits
+- [ ] 30 - Product of Array Except Self
+- [ ] 31 - Pow(x, n)
+- [ ] 32 - Fraction to Recurring Decimal
+- [ ] 33 - Factorial Trailing Zeros
+- [ ] 34 - Count Primes
+- [ ] 35 - Max Points On Line
+- [ ] 36 - Integer Break
+- [ ] 37 - Ugly Number
+- [ ] 38 - Super Ugly Number
+- [ ] 39 - Find K Pairs with Smallest Sum
 	
 **2. Strings**
 - [X] [Read File](../master/src/com/deepak/java/problems/Strings/ReadFile.java) 
