@@ -1,14 +1,25 @@
+/**
+ * JavaProblems
+ * Problem_06.java
+ */
 package com.deepak.java.problems.Math;
 
 /**
+ * <br> Problem Statement :
+ * 
  * Given a number n, find the square without using * operator
+ * 
+ * </br>
  * 
  * @author Deepak
  */
 public class Problem_06 {
 
 	/**
-	 * Method to find square
+	 * Method to find square of a number without using *
+	 * 
+	 * Time Complexity = O(n)
+	 * Space Complexity = O(1)
 	 * 
 	 * @param n
 	 * @return {@link int}
@@ -32,11 +43,11 @@ public class Problem_06 {
 		}
 		return result;
 	}
-	
+
 	public static void main(String[] args) {
 		System.out.println(findSquare(3));
 		System.out.println(findSquare(5));
 		System.out.println(findSquare(-2));
 	}
-	
+
 }
