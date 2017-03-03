@@ -1,14 +1,25 @@
+/**
+ * JavaProblems
+ * Problem_07.java
+ */
 package com.deepak.java.problems.Math;
 
 /**
+ * <br> Problem Statement :
+ * 
  * Given a number n, find it's square root without using /
+ * 
+ * </br>
  * 
  * @author Deepak
  */
 public class Problem_07 {
 
 	/**
-	 * Method to find the square root of a number
+	 * Method to find the square root of a number without using /
+	 * 
+	 * Time Complexity = O(log(n))
+	 * Space Complexity = O(1)
 	 * 
 	 * @param n
 	 * @return {@link int}
