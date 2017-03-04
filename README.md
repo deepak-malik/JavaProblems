@@ -11,7 +11,7 @@ Some random java problems solved from various sources
 - [X] [07 - Square Root of a Number](../master/src/com/deepak/java/problems/Math/Problem_07.java)
 - [X] [08 - Reverse Integer](../master/src/com/deepak/java/problems/Math/Problem_08.java)
 - [X] [09 - Palindrome Number](../master/src/com/deepak/java/problems/Math/Problem_09.java)
-- [ ] 10 - Find Kth Permutation
+- [X] [10 - Find Kth Permutation](../master/src/com/deepak/java/problems/Math/Problem_10.java)
 - [X] [11 - Power of Two](../master/src/com/deepak/java/problems/Math/Problem_11.java)
 - [X] [12 - Power of Three](../master/src/com/deepak/java/problems/Math/Problem_12.java)
 - [ ] 13 - Power of Four
