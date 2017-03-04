@@ -26,7 +26,7 @@ Some random java problems solved from various sources
 - [ ] 22 - Is Number Valid
 - [X] [23 - Excel Sheet Column Title to Number](../master/src/com/deepak/java/problems/Math/Problem_23.java)
 - [X] [24 - Excel Sheet Column Number to Title](../master/src/com/deepak/java/problems/Math/Problem_24.java)
-- [ ] 25 - Happy Number
+- [X] [25 - Happy Number](../master/src/com/deepak/java/problems/Math/Problem_25.java)
 - [ ] 26 - Plus One
 - [ ] 27 - Pow(x, n)
 - [ ] 28 - Multiply Strings
