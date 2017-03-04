@@ -1,15 +1,26 @@
+/**
+ * JavaProblems
+ * Problem_12.java
+ */
 package com.deepak.java.problems.Math;
 
 /**
+ * <br> Problem Statement :
+ * 
  * Find if a given number is power of 3
+ * 
+ * </br>
  * 
  * @author Deepak
  */
 public class Problem_12 {
 
 	/**
-	 * Method to check if n is power of three
+	 * Method to check if n is power of three.
 	 * This is a iterative solution
+	 * 
+	 * Time Complexity : O(log(n))
+	 * Space Complexity : O(1)
 	 * 
 	 * @param n
 	 * @return {@link boolean}
@@ -42,6 +53,10 @@ public class Problem_12 {
 
 	/**
 	 * Method to check if n is power of 3
+	 * This is a recursive solution.
+	 * 
+	 * Time Complexity : O(log(n))
+	 * Space Complexity : O(1)
 	 * 
 	 * @param n
 	 * @return {@link boolean}

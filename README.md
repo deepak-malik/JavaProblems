@@ -1,4 +1,4 @@
-# JavaProblems
+# Java Problems
 Some random java problems solved from various sources
 
 **1. Math**
