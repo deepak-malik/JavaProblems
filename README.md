@@ -14,7 +14,7 @@ Some random java problems solved from various sources
 - [X] [10 - Find Kth Permutation](../master/src/com/deepak/java/problems/Math/Problem_10.java)
 - [X] [11 - Power of Two](../master/src/com/deepak/java/problems/Math/Problem_11.java)
 - [X] [12 - Power of Three](../master/src/com/deepak/java/problems/Math/Problem_12.java)
-- [ ] 13 - Power of Four
+- [X] [13 - Power of n](../master/src/com/deepak/java/problems/Math/Problem_13.java)
 - [X] [14 - FizzBuzz](../master/src/com/deepak/java/problems/Math/Problem_14.java)
 - [X] [15 - Valid Parenthesis](../master/src/com/deepak/java/problems/Math/Problem_15.java)
 - [ ] 16 - Integer Division
