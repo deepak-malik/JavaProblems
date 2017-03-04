@@ -17,30 +17,28 @@ Some random java problems solved from various sources
 - [X] [13 - Power of n](../master/src/com/deepak/java/problems/Math/Problem_13.java)
 - [X] [14 - FizzBuzz](../master/src/com/deepak/java/problems/Math/Problem_14.java)
 - [X] [15 - Valid Parenthesis](../master/src/com/deepak/java/problems/Math/Problem_15.java)
-- [ ] 16 - Integer Division
+- [X] [16 - Integer Division](../master/src/com/deepak/java/problems/Math/Problem_16.java)
 - [ ] 17 - Pythagorean Triplets
 - [ ] 18 - All Sum Combinations
-- [ ] 19 - Find Missing Number
-- [ ] 20 - Permute Strings
+- [ ] 19 - Permute Strings
+- [ ] 20 - Find K Pairs with Smallest Sum
 - [ ] 21 - All Subsets
 - [ ] 22 - Is Number Valid
 - [ ] 23 - Excel Sheet Column Number
 - [ ] 24 - Excel Sheet Column Title 
 - [ ] 25 - Happy Number
 - [ ] 26 - Plus One
-- [ ] 27 - Divide Two Integers
+- [ ] 27 - Pow(x, n)
 - [ ] 28 - Multiply Strings
 - [ ] 29 - Add Digits
 - [ ] 30 - Product of Array Except Self
-- [ ] 31 - Pow(x, n)
-- [ ] 32 - Fraction to Recurring Decimal
-- [ ] 33 - Factorial Trailing Zeros
-- [ ] 34 - Count Primes
-- [ ] 35 - Max Points On Line
-- [ ] 36 - Integer Break
-- [ ] 37 - Ugly Number
-- [ ] 38 - Super Ugly Number
-- [ ] 39 - Find K Pairs with Smallest Sum
+- [ ] 31 - Fraction to Recurring Decimal
+- [ ] 32 - Factorial Trailing Zeros
+- [ ] 33 - Count Primes
+- [ ] 34 - Max Points On Line
+- [ ] 35 - Integer Break
+- [ ] 36 - Ugly Number
+- [ ] 37 - Super Ugly Number
 	
 **2. Strings**
 - [X] [Read File](../master/src/com/deepak/java/problems/Strings/ReadFile.java) 
