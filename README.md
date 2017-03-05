@@ -37,7 +37,7 @@ Some random java problems solved from various sources
 - [ ] 33 - Count Primes
 - [ ] 34 - Max Points On Line
 - [ ] 35 - Integer Break
-- [ ] 36 - Ugly Number
+- [X] [36 - Ugly Number](../master/src/com/deepak/java/problems/Math/Problem_36.java)
 - [ ] 37 - Super Ugly Number
 	
 **2. Strings**
