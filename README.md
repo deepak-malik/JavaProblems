@@ -31,7 +31,7 @@ Some random java problems solved from various sources
 - [ ] 27 - Pow(x, n)
 - [ ] 28 - Multiply Strings
 - [X] [29 - Add Digits](../master/src/com/deepak/java/problems/Math/Problem_29.java)
-- [ ] 30 - Product of Array Except Self
+- [X] [30 - Product of Array Except Self](../master/src/com/deepak/java/problems/Math/Problem_30.java)
 - [ ] 31 - Fraction to Recurring Decimal
 - [ ] 32 - Factorial Trailing Zeros
 - [ ] 33 - Count Primes
