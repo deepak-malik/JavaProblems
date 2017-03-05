@@ -28,7 +28,7 @@ Some random java problems solved from various sources
 - [X] [24 - Excel Sheet Column Number to Title](../master/src/com/deepak/java/problems/Math/Problem_24.java)
 - [X] [25 - Happy Number](../master/src/com/deepak/java/problems/Math/Problem_25.java)
 - [X] [26 - Plus One](../master/src/com/deepak/java/problems/Math/Problem_26.java)
-- [ ] 27 - Pow(x, n)
+- [X] [27 - Pow(x, n)](../master/src/com/deepak/java/problems/Math/Problem_27.java)
 - [ ] 28 - Multiply Strings
 - [X] [29 - Add Digits](../master/src/com/deepak/java/problems/Math/Problem_29.java)
 - [X] [30 - Product of Array Except Self](../master/src/com/deepak/java/problems/Math/Problem_30.java)
