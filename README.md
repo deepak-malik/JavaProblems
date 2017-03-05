@@ -38,7 +38,7 @@ Some random java problems solved from various sources
 - [ ] 34 - Max Points On Line
 - [ ] 35 - Integer Break
 - [X] [36 - Ugly Number](../master/src/com/deepak/java/problems/Math/Problem_36.java)
-- [ ] 37 - Super Ugly Number
+- [X] [37 - Super Ugly Number](../master/src/com/deepak/java/problems/Math/Problem_37.java)
 	
 **2. Strings**
 - [X] [Read File](../master/src/com/deepak/java/problems/Strings/ReadFile.java) 
