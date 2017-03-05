@@ -23,7 +23,7 @@ Some random java problems solved from various sources
 - [ ] 19 - Permute Strings
 - [ ] 20 - Find K Pairs with Smallest Sum
 - [ ] 21 - All Subsets
-- [ ] 22 - Is Number Valid
+- [X] [22 - Is Number Valid](../master/src/com/deepak/java/problems/Math/Problem_22.java)
 - [X] [23 - Excel Sheet Column Title to Number](../master/src/com/deepak/java/problems/Math/Problem_23.java)
 - [X] [24 - Excel Sheet Column Number to Title](../master/src/com/deepak/java/problems/Math/Problem_24.java)
 - [X] [25 - Happy Number](../master/src/com/deepak/java/problems/Math/Problem_25.java)
