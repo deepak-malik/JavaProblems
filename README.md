@@ -30,7 +30,7 @@ Some random java problems solved from various sources
 - [X] [26 - Plus One](../master/src/com/deepak/java/problems/Math/Problem_26.java)
 - [ ] 27 - Pow(x, n)
 - [ ] 28 - Multiply Strings
-- [ ] 29 - Add Digits
+- [X] [29 - Add Digits](../master/src/com/deepak/java/problems/Math/Problem_29.java)
 - [ ] 30 - Product of Array Except Self
 - [ ] 31 - Fraction to Recurring Decimal
 - [ ] 32 - Factorial Trailing Zeros
