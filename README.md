@@ -20,7 +20,7 @@ Some random java problems solved from various sources
 - [X] [16 - Integer Division](../master/src/com/deepak/java/problems/Math/Problem_16.java)
 - [ ] 17 - Pythagorean Triplets
 - [ ] 18 - All Sum Combinations
-- [ ] 19 - Permute Strings
+- [X] [19 - Permute Strings](../master/src/com/deepak/java/problems/Math/Problem_19.java)
 - [ ] 20 - Find K Pairs with Smallest Sum
 - [ ] 21 - All Subsets
 - [X] [22 - Is Number Valid](../master/src/com/deepak/java/problems/Math/Problem_22.java)
