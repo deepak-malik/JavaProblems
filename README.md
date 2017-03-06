@@ -40,19 +40,19 @@ Some random java problems solved from various sources
 - [X] [36 - Ugly Number](../master/src/com/deepak/java/problems/Math/Problem_36.java)
 - [X] [37 - Super Ugly Number](../master/src/com/deepak/java/problems/Math/Problem_37.java)
 	
-**2. Strings**
-- [X] [Read File](../master/src/com/deepak/java/problems/Strings/ReadFile.java) 
-- [X] [Anagram String](../master/src/com/deepak/java/problems/Strings/Problem_01.java)
-- [X] [Reverse Words](../master/src/com/deepak/java/problems/Strings/Problem_02.java)
-- [X] [Remove Duplicates](../master/src/com/deepak/java/problems/Strings/Problem_03.java)
-- [X] [Remove White Spaces](../master/src/com/deepak/java/problems/Strings/Problem_04.java)
-- [X] [String Segmentation](../master/src/com/deepak/java/problems/Strings/Problem_05.java)
-- [ ] XML to Tree
-- [ ] Find all Palindrome Sub strings
-- [ ] Regular Expression
-- [X] [Reverse Words & Characters](../master/src/com/deepak/java/problems/Strings/Problem_09.java)
-- [X] [Reverse Vowels](../master/src/com/deepak/java/problems/Strings/Problem_10.java)
-- [X] [Length of Last Word](../master/src/com/deepak/java/problems/Strings/Problem_11.java)
+**2. Strings** 
+- [X] [01 - Anagram String](../master/src/com/deepak/java/problems/Strings/Problem_01.java)
+- [X] [02 - Reverse Words](../master/src/com/deepak/java/problems/Strings/Problem_02.java)
+- [X] [03 - Remove Duplicates](../master/src/com/deepak/java/problems/Strings/Problem_03.java)
+- [X] [04 - Remove White Spaces](../master/src/com/deepak/java/problems/Strings/Problem_04.java)
+- [X] [05 - String Segmentation](../master/src/com/deepak/java/problems/Strings/Problem_05.java)
+- [ ] 06 - XML to Tree
+- [ ] 07 - Find all Palindrome Sub strings
+- [ ] 08 - Regular Expression
+- [X] [09 - Reverse Words & Characters](../master/src/com/deepak/java/problems/Strings/Problem_09.java)
+- [X] [10 - Reverse Vowels](../master/src/com/deepak/java/problems/Strings/Problem_10.java)
+- [X] [11 - Length of Last Word](../master/src/com/deepak/java/problems/Strings/Problem_11.java)
+- [X] [12 - Line, Word, Character Count](../master/src/com/deepak/java/problems/Strings/Problem_12.java)
 
 **3. Arrays**
 - [X] [Longest Absolute Path In File System](../master/src/com/deepak/java/problems/Arrays/Problem_01.java)
