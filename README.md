@@ -55,7 +55,8 @@ Some random java problems solved from various sources
 - [X] [12 - Line, Word, Character Count](../master/src/com/deepak/java/problems/Strings/Problem_12.java)
 
 **3. Arrays**
-- [X] [Longest Absolute Path In File System](../master/src/com/deepak/java/problems/Arrays/Problem_01.java)
+- [X] [01 - Longest Absolute Path In File System](../master/src/com/deepak/java/problems/Arrays/Problem_01.java)
+- [X] [02 - Length of Longest Increasing Subsequence](../master/src/com/deepak/java/problems/Arrays/Problem_02.java)
 - [ ] Rotate Array 
 - [ ] Search Rotated Array
 - [ ] Binary Search
