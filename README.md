@@ -53,6 +53,27 @@ Some random java problems solved from various sources
 - [X] [10 - Reverse Vowels](../master/src/com/deepak/java/problems/Strings/Problem_10.java)
 - [X] [11 - Length of Last Word](../master/src/com/deepak/java/problems/Strings/Problem_11.java)
 - [X] [12 - Line, Word, Character Count](../master/src/com/deepak/java/problems/Strings/Problem_12.java)
+- [ ] 13 - Isomorphic Strings
+- [ ] 14 - Wildcard or Regex Matching
+- [ ] 15 - Longest Consecutive Sequence
+- [ ] 16 - Longest SubString With No Repeated Characters
+- [ ] 17 - Longest SubString with 2 Unique Characters
+- [ ] 18 - Group Anagrams
+- [ ] 19 - Shortest Palindrome
+- [ ] 20 - Increasing Triplet Sequence
+- [ ] 21 - Palindrome Pairs
+- [ ] 22 - Scramble Strings
+- [ ] 23 - First Bad Version
+- [ ] 24 - Integer to English Words
+- [ ] 25 - Rotate String
+- [ ] 26 - Valid Words
+- [ ] 27 - First Non Repeated Character
+- [ ] 28 - All Dictionary Words in a String
+- [ ] 29 - KMP String Search
+- [ ] 30 - Interleaved Strings
+- [ ] 31 - Remove Comments From File
+- [ ] 32 - String Serialization
+- [ ] 33 - TinyUrl
 
 **3. Arrays**
 - [X] [01 - Longest Absolute Path In File System](../master/src/com/deepak/java/problems/Arrays/Problem_01.java)
