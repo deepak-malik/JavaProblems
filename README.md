@@ -124,6 +124,7 @@ Some random java problems solved from various sources
 - [X] [07 - Is Sub Tree?](../master/src/com/deepak/java/problems/Trees/Problem_07.java)
 - [X] [08 - LCA in BST](../master/src/com/deepak/java/problems/Trees/Problem_08.java)
 - [X] [09 - LCA in Non BST](../master/src/com/deepak/java/problems/Trees/Problem_09.java)
+- [X] [10 - Max Path Sum](../master/src/com/deepak/java/problems/Trees/Problem_09.java)
 - [ ] InOrder Iterator for Binary Tree
 - [ ] InOrder Successor BST
 - [ ] Convert Binary Tree to Doubly Linked List
