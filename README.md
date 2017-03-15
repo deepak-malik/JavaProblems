@@ -128,9 +128,9 @@ Some random java problems solved from various sources
 - [X] [11 - InOrder Predecessor BST](../master/src/com/deepak/java/problems/Trees/Problem_11.java)
 - [X] [12 - InOrder Successor BST](../master/src/com/deepak/java/problems/Trees/Problem_12.java)
 - [X] [13 - Closest Node to given Node](../master/src/com/deepak/java/problems/Trees/Problem_13.java)
-- [X] [14 - Is Sum Tree?](../master/src/com/deepak/java/problems/Trees/Problem_13.java)
-- [ ] [15 - Count Trees]
-- [ ] [16 - Find Mode]
+- [X] [14 - Is Sum Tree?](../master/src/com/deepak/java/problems/Trees/Problem_14.java)
+- [X] [15 - Count Trees](../master/src/com/deepak/java/problems/Trees/Problem_15.java)
+- [X] [16 - Find Mode](../master/src/com/deepak/java/problems/Trees/Problem_16.java)
 - [ ] InOrder Iterator for Binary Tree
 - [ ] InOrder Successor BST
 - [ ] Convert Binary Tree to Doubly Linked List
