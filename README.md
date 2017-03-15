@@ -120,7 +120,8 @@ Some random java problems solved from various sources
 - [X] [03 - Minimum and Maximum in BST](../master/src/com/deepak/java/problems/Trees/Problem_03.java)
 - [X] [04 - Is BST?](../master/src/com/deepak/java/problems/Trees/Problem_04.java)
 - [X] [05 - Mirror Image](../master/src/com/deepak/java/problems/Trees/Problem_05.java)
-- [ ] Check if two Binary Trees are identical
+- [X] [06 - Is Same Tree](../master/src/com/deepak/java/problems/Trees/Problem_06.java)
+- [X] [07 - Is Sub Tree](../master/src/com/deepak/java/problems/Trees/Problem_07.java)
 - [ ] InOrder Iterator for Binary Tree
 - [ ] InOrder Successor BST
 - [ ] Convert Binary Tree to Doubly Linked List
