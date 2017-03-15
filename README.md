@@ -118,12 +118,10 @@ Some random java problems solved from various sources
 - [X] [01 - Height of Tree](../master/src/com/deepak/java/problems/Trees/Problem_01.java)
 - [X] [02 - Size of Tree](../master/src/com/deepak/java/problems/Trees/Problem_02.java)
 - [X] [03 - Minimum and Maximum in BST](../master/src/com/deepak/java/problems/Trees/Problem_03.java)
+- [X] [04 - Is BST?](../master/src/com/deepak/java/problems/Trees/Problem_04.java)
 - [ ] Check if two Binary Trees are identical
 - [ ] InOrder Iterator for Binary Tree
-- [ ] Iterative InOrder Traversal
 - [ ] InOrder Successor BST
-- [ ] Level Order Traversal of Binary Tree
-- [ ] Is BST?
 - [ ] Convert Binary Tree to Doubly Linked List
 - [ ] Print Tree Perimeter
 - [ ] Connect Same Level Siblings
