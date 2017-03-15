@@ -124,7 +124,13 @@ Some random java problems solved from various sources
 - [X] [07 - Is Sub Tree?](../master/src/com/deepak/java/problems/Trees/Problem_07.java)
 - [X] [08 - LCA in BST](../master/src/com/deepak/java/problems/Trees/Problem_08.java)
 - [X] [09 - LCA in Non BST](../master/src/com/deepak/java/problems/Trees/Problem_09.java)
-- [X] [10 - Max Path Sum](../master/src/com/deepak/java/problems/Trees/Problem_09.java)
+- [X] [10 - Max Path Sum](../master/src/com/deepak/java/problems/Trees/Problem_10.java)
+- [X] [11 - InOrder Predecessor BST](../master/src/com/deepak/java/problems/Trees/Problem_11.java)
+- [X] [12 - InOrder Successor BST](../master/src/com/deepak/java/problems/Trees/Problem_12.java)
+- [X] [13 - Closest Node to given Node](../master/src/com/deepak/java/problems/Trees/Problem_13.java)
+- [ ] [14 - Is Sum Tree?]
+- [ ] [15 - Count Trees]
+- [ ] [16 - Find Mode]
 - [ ] InOrder Iterator for Binary Tree
 - [ ] InOrder Successor BST
 - [ ] Convert Binary Tree to Doubly Linked List
@@ -134,7 +140,6 @@ Some random java problems solved from various sources
 - [ ] Connect All Siblings
 - [ ] InOrder Successor BST with Parent Pointer
 - [ ] Nth Highest with BST
-- [ ] Mirror Binary Tree Nodes
 - [ ] Delete zero sum Sub Tree
 - [ ] N-Ary Tree to Binary Tree
 
