@@ -1,5 +1,5 @@
 package com.deepak.java.problems.Trees;
 
-public class MergeTwoBST {
+public class Problem_01_Test {
 
 }
