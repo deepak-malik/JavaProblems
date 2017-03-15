@@ -117,7 +117,7 @@ Some random java problems solved from various sources
 **7. Tree**
 - [X] [01 - Height of Tree](../master/src/com/deepak/java/problems/Trees/Problem_01.java)
 - [X] [02 - Size of Tree](../master/src/com/deepak/java/problems/Trees/Problem_02.java)
-- [ ] [03 - Minimum and Maximum in BST](../master/src/com/deepak/java/problems/Trees/Problem_03.java)
+- [X] [03 - Minimum and Maximum in BST](../master/src/com/deepak/java/problems/Trees/Problem_03.java)
 - [ ] Check if two Binary Trees are identical
 - [ ] InOrder Iterator for Binary Tree
 - [ ] Iterative InOrder Traversal
