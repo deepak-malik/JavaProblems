@@ -132,6 +132,7 @@ Some random java problems solved from various sources
 - [X] [15 - Count Trees](../master/src/com/deepak/java/problems/Trees/Problem_15.java)
 - [X] [16 - Find Mode](../master/src/com/deepak/java/problems/Trees/Problem_16.java)
 - [X] [17 - Double Tree](../master/src/com/deepak/java/problems/Trees/Problem_17.java)
+- [X] [18 - BST Lookup](../master/src/com/deepak/java/problems/Trees/Problem_18.java)
 - [ ] InOrder Iterator for Binary Tree
 - [ ] InOrder Successor BST
 - [ ] Convert Binary Tree to Doubly Linked List
